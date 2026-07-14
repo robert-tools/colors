@@ -1,0 +1,10 @@
+{
+    "$schema": "https://willi84.github.io/project-tracking-record/project.schema.json",
+    "🗂️ name": "@robert.tools/colors",
+    "🎯 goal": "A collection of colors",
+    "🔖 version": "1.0.0",
+    "📄 id": "ROB-004",
+    "⚖️ license": "MIT",
+    "👩 author": "Robert Willemelis",
+    "🚦 status": "active"
+}
