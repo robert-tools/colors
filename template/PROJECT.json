@@ -1,0 +1,10 @@
+{
+    "$schema": "https://willi84.github.io/project-tracking-record/project.schema.json",
+    "🗂️ name": "@scope/package-name",
+    "🎯 goal": "TODO: Add description",
+    "🔖 version": "0.1.0",
+    "📄 id": "TODO-001",
+    "⚖️ license": "MIT",
+    "👩 author": "YOUR NAME",
+    "🚦 status": "active"
+}
